@@ -1564,15 +1564,14 @@
                 80.0,
                 67.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a blurry picture of a white bear sitting next to a white vase",
             "tag2text_text_with_class": "a close up of a stuffed toy animal",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 7,
@@ -2650,15 +2649,14 @@
                 478.0,
                 318.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a small kitchen with a white table and microwave",
             "tag2text_text_with_class": "a table that has a bunch of items on top of it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 49,
@@ -2796,15 +2794,14 @@
                 52.0,
                 37.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a close up of the face of a cat",
             "tag2text_text_with_class": "a close up of a cat with a blurry background",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 66,
@@ -2948,15 +2945,14 @@
                 61.0,
                 34.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cat that is sitting on the ground",
             "tag2text_text_with_class": "a ceiling that is very green in some places",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 75,
@@ -4028,15 +4024,14 @@
                 493.0,
                 275.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a pink stuffed animal with a bow on a table",
             "tag2text_text_with_class": "a stuffed toy animal sitting on the ground",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 103,
@@ -4176,15 +4171,14 @@
                 58.0,
                 41.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "an elephant, a dog, and a cat are walking together",
             "tag2text_text_with_class": "a cat that is laying down on the ground",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 108,
@@ -4634,15 +4628,14 @@
                 192.0,
                 236.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a wooden chest of drawers sitting next to a desk in a room",
             "tag2text_text_with_class": "a close up of a chest of drawers",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 119,
@@ -7224,15 +7217,14 @@
                 1280.0,
                 269.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a room with tiled walls and floor and stairs",
             "tag2text_text_with_class": "a close up of a ceiling",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 151,
@@ -11588,15 +11580,14 @@
                 1280.0,
                 720.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a table topped with corn, carrots and other fruits and vegetables",
             "tag2text_text_with_class": "a table topped with different types of veggies",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 163,
@@ -11746,15 +11737,14 @@
                 64.0,
                 36.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a blurry picture of a dog and a cat",
             "tag2text_text_with_class": "a close up of a cat with a blurry background",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 182,
@@ -12362,15 +12352,14 @@
                 293.0,
                 632.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cat is on the floor near a wooden cabinet with a door",
             "tag2text_text_with_class": "a close up of a drawer pull",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 192,
@@ -12722,15 +12711,14 @@
                 153.0,
                 180.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a blurry picture of a hand holding a white teddy bear with a pink mouth",
             "tag2text_text_with_class": "a close up of a hello kitty toy",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 196,
@@ -13310,15 +13298,14 @@
                 263.0,
                 259.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a white teddy bear and a pink cat on a table",
             "tag2text_text_with_class": "a close up of a stuffed animal cat",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 197,
@@ -17088,15 +17075,14 @@
                 1280.0,
                 405.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cutting board with vegetables and a toy on it",
             "tag2text_text_with_class": "a table with some toy animals on it",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 234,
@@ -17256,15 +17242,14 @@
                 66.0,
                 79.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a white cat laying on top of a rock",
             "tag2text_text_with_class": "a close up of a stuffed toy animal",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 235,
@@ -17938,15 +17923,14 @@
                 303.0,
                 221.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a white cat sitting on a shelf next to a table with a clock on it",
             "tag2text_text_with_class": "a table that has a bunch of items on it",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 280,
@@ -18168,15 +18152,14 @@
                 93.0,
                 52.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a picture of a green apple in the water",
             "tag2text_text_with_class": "a close up of a cucumber with a blurry background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 284,
@@ -19120,15 +19103,14 @@
                 432.0,
                 251.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a pink pig in a santa hat on the floor",
             "tag2text_text_with_class": "a stuffed toy animal sitting on the ground",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 290,
@@ -21158,15 +21140,14 @@
                 763.0,
                 706.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a green cucumber in a plastic container on a red tray",
             "tag2text_text_with_class": "a red plastic food container with a green object inside of it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 295,
@@ -21348,15 +21329,14 @@
                 80.0,
                 35.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a green cucumber in a plastic bottle",
             "tag2text_text_with_class": "a close up of a green pickle on a white background",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 301,
@@ -21538,15 +21518,14 @@
                 75.0,
                 65.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a hand holding a white teddy bear next to a pink dog",
             "tag2text_text_with_class": "a close up of a cat with a blurry background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 304,
@@ -21668,15 +21647,14 @@
                 47.0,
                 73.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cat and a kitten in a bath tub",
             "tag2text_text_with_class": "a cat that is laying down on the ground",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 319,
@@ -21964,15 +21942,14 @@
                 124.0,
                 184.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a man with a beard wearing a black shirt",
             "tag2text_text_with_class": "a close up of a person holding a cell phone",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 0,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 0
         },
         {
             "id": 321,
@@ -22840,15 +22817,14 @@
                 361.0,
                 710.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a green plastic food container on a white background",
             "tag2text_text_with_class": "a green plastic storage container on a white background",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 348,
@@ -23004,15 +22980,14 @@
                 67.0,
                 52.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a blurry picture of a dog with a white head and mouth",
             "tag2text_text_with_class": "a close up of a cat with a blurry background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 349,
@@ -23478,15 +23453,14 @@
                 152.0,
                 252.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a toaster sitting on top of a desk",
             "tag2text_text_with_class": "a close up of a very nice looking filing cabinet",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 375,
@@ -25256,15 +25230,14 @@
                 867.0,
                 54.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cat sitting on top of a table next to a window",
             "tag2text_text_with_class": "a close up of a table with a blurry background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 429,
@@ -25374,15 +25347,14 @@
                 44.0,
                 42.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a blurry picture of a man with glasses on his head",
             "tag2text_text_with_class": "a cat that is laying down on the ground",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 451,
@@ -25616,15 +25588,14 @@
                 102.0,
                 327.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a brown cat sitting on top of a wooden chest of drawers",
             "tag2text_text_with_class": "a close up of a chest of drawers",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 520,
@@ -25838,15 +25809,14 @@
                 91.0,
                 58.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a blurry picture of a hand holding a white teddy bear with a toothbrush in it's teeth",
             "tag2text_text_with_class": "a close up of a stuffed animal cat",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 543,
@@ -25950,15 +25920,14 @@
                 40.0,
                 38.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a man with a shirt and tie on his head",
             "tag2text_text_with_class": "a close up of a person with a blurry background",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 551,
@@ -26317,15 +26286,14 @@
                 166.0,
                 331.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a wooden chest of drawers sitting next to a counter in a kitchen",
             "tag2text_text_with_class": "a close up of a wooden dresser top",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 586,
@@ -26611,15 +26579,14 @@
                 132.0,
                 86.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a bathroom with a toilet and a plastic box with an orange lid and a towel",
             "tag2text_text_with_class": "an orange plastic storage container with a white background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 594,
@@ -26759,15 +26726,14 @@
                 59.0,
                 33.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "an old man with his face pressed up against the glass",
             "tag2text_text_with_class": "a close up of a cat with a blurry background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 634,
@@ -26927,15 +26893,14 @@
                 46.0,
                 66.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a white dog and yellow banana in a sink with water",
             "tag2text_text_with_class": "a close up of a toy dog laying down",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 643,
@@ -27647,15 +27612,14 @@
                 324.0,
                 479.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a green plastic dish on a table with a cat in it",
             "tag2text_text_with_class": "a green plastic food container on a white background",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 651,
@@ -27964,15 +27928,14 @@
                 135.0,
                 343.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cat sitting on top of a wooden chest of drawers next to a counter or cabinet",
             "tag2text_text_with_class": "a close up of a chest of drawers",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 655,
@@ -28110,15 +28073,14 @@
                 56.0,
                 53.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a black and white picture of the face of a white cat, a white cow, and a white bird",
             "tag2text_text_with_class": "a close up of a dog head with a blurry background",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 671,
@@ -28178,15 +28140,14 @@
                 19.0,
                 22.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a close up of a person's face with a blurry background",
             "tag2text_text_with_class": "a close up of a person holding a cell phone",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 0,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 0
         },
         {
             "id": 720,
@@ -28340,15 +28301,14 @@
                 65.0,
                 50.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a white cat with a pumpkin and carrots on its face",
             "tag2text_text_with_class": "a close up of a stuffed animal cat",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 721,
@@ -29690,15 +29650,14 @@
                 585.0,
                 351.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a desk with a shelf and a hair dryer on it",
             "tag2text_text_with_class": "a table that has some items on top of it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 722,
@@ -30005,15 +29964,14 @@
                 140.0,
                 331.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a microwave sitting on top of a wooden dresser in a kitchen",
             "tag2text_text_with_class": "a close up of a filing cabinet in a home office setting",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 766,
@@ -32835,15 +32793,14 @@
                 1280.0,
                 535.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a wooden table with a banana, orange and a white mouse",
             "tag2text_text_with_class": "a table that has some items on it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 817,
@@ -33033,15 +32990,14 @@
                 62.0,
                 83.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a gray kitten sitting on a toilet with a brown teddy bear in its mouth",
             "tag2text_text_with_class": "a close up of a stuffed animal cat",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 826,
@@ -36689,15 +36645,14 @@
                 1280.0,
                 636.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a stuffed animal and vegetables on a table",
             "tag2text_text_with_class": "a toy rabbit sitting on top of a table",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": -1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": -1
         },
         {
             "id": 831,
@@ -37369,15 +37324,14 @@
                 279.0,
                 300.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a stuffed animal that is sitting on a table",
             "tag2text_text_with_class": "a stuffed animal cat sitting on top of a stuffed toy animal",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 0,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 0
         },
         {
             "id": 838,
@@ -37975,15 +37929,14 @@
                 268.0,
                 247.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a pink stuffed animal is on the floor next to a cat",
             "tag2text_text_with_class": "a close up of a cat toy on the ground",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 849,
@@ -42289,15 +42242,14 @@
                 1280.0,
                 491.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a wooden cutting board topped with fruits and vegetables",
             "tag2text_text_with_class": "a table topped with lots of different colored veggies",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 880,
@@ -44439,15 +44391,14 @@
                 1280.0,
                 329.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a bag of vegetables on a wooden shelf",
             "tag2text_text_with_class": "a table that has some items on top of it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 913,
@@ -49281,15 +49232,14 @@
                 1280.0,
                 619.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cutting board with fruits and vegetables on it",
             "tag2text_text_with_class": "a table topped with lots of different colored veggies",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 955,
@@ -49389,15 +49339,14 @@
                 38.0,
                 26.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a horse that is standing in front of a house",
             "tag2text_text_with_class": "a close up of a cat",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 966,
@@ -52041,15 +51990,14 @@
                 1280.0,
                 285.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a wooden shelf with a toy on top of it",
             "tag2text_text_with_class": "a table with a bunch of different colored objects on it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 979,
@@ -53913,15 +53861,14 @@
                 1280.0,
                 301.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a wooden table topped with lots of fruits",
             "tag2text_text_with_class": "a close up of some small items on a table",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1033,
@@ -54067,15 +54014,14 @@
                 61.0,
                 54.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a man taking a picture of an elephant in the water",
             "tag2text_text_with_class": "a close up of a cat with a blurry background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1104,
@@ -54185,15 +54131,14 @@
                 44.0,
                 26.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a close up of a cat near a parking meter",
             "tag2text_text_with_class": "a cat that is laying down on the ground",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1111,
@@ -54375,15 +54320,14 @@
                 67.0,
                 91.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a picture of a man wearing a black coat and tie looking at his phone",
             "tag2text_text_with_class": "a close up of a persons head with a blurry background",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1140,
@@ -54741,15 +54685,14 @@
                 114.0,
                 313.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a wooden chest of drawers sitting inside of a room",
             "tag2text_text_with_class": "a close up of a chest of drawers",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1183,
@@ -54933,15 +54876,14 @@
                 79.0,
                 168.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a green pepper next to a pair of scissors",
             "tag2text_text_with_class": "a close up of a green pickle on a blue background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1185,
@@ -55493,15 +55435,14 @@
                 194.0,
                 151.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a small stuffed animal with a cat on it",
             "tag2text_text_with_class": "a close up of a stuffed animal animal toy",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1200,
@@ -55882,15 +55823,14 @@
                 168.0,
                 324.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a cat sitting on top of a wooden chest of drawers next to a bed",
             "tag2text_text_with_class": "a close up of a chest of drawers",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1204,
@@ -56160,15 +56100,14 @@
                 121.0,
                 179.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a man with a beard wearing a blue sweater",
             "tag2text_text_with_class": "a close up of a person holding a cell phone",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 0,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 0
         },
         {
             "id": 1257,
@@ -56902,15 +56841,14 @@
                 310.0,
                 312.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a close up of a stuffed animal on a table",
             "tag2text_text_with_class": "a close up of a cat toy with a cat in the background",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 0,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 0
         },
         {
             "id": 1269,
@@ -62730,15 +62668,14 @@
                 1280.0,
                 593.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a stuffed animal and vegetables on a table",
             "tag2text_text_with_class": "a group of toy animals sitting on top of a table",
             "tag2text_text_hf": 1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1316,
@@ -62920,15 +62857,14 @@
                 60.0,
                 79.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a small stuffed animal sitting next to a brown cat",
             "tag2text_text_with_class": "a close up of a stuffed animal cat",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1317,
@@ -63030,15 +62966,14 @@
                 39.0,
                 39.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a blurry picture of a person holding their hand over a toilet",
             "tag2text_text_with_class": "a cat that is laying down on the ground",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1383,
@@ -63410,15 +63345,14 @@
                 162.0,
                 131.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a green ball next to a plastic toy of a cat",
             "tag2text_text_with_class": "a close up of a cat toy with a blurry background",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1392,
@@ -66054,15 +65988,14 @@
                 1280.0,
                 198.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a table with yellow bananas sitting on a wooden floor",
             "tag2text_text_with_class": "a table that has a bunch of stuff on it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1396,
@@ -66852,15 +66785,14 @@
                 384.0,
                 309.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a close up of a banana on a table",
             "tag2text_text_with_class": "a close up of a green pickle on a wood surface",
             "tag2text_text_hf": -1,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         },
         {
             "id": 1400,
@@ -70710,15 +70642,14 @@
                 1280.0,
                 613.0
             ],
-            "iscrowd": 1,
+            "iscrowd": 0,
             "attributes": {
                 "occluded": false
             },
             "tag2text_text": "a child's toy with vegetables on the table",
             "tag2text_text_with_class": "a table with some toy vegetables on it",
             "tag2text_text_hf": 0,
-            "tag2text_text_with_class_hf": 1,
-            "is_crowd": 0
+            "tag2text_text_with_class_hf": 1
         }
     ]
 }
